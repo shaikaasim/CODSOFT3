@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC&display=swap');
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+      
+}
+.button{
+    background:moccasin;
+    color:black;
+   padding: 20px; 
+   margin: 0 3px;
+   width:66px;
+   border-radius: 50px;
+   cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    background:gray;
+    color:white;
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding:  10px 0px;
+    border: 2px solid black;
+    border-radius:9px ;
+}
