@@ -1,2 +1,2 @@
 # CODSOFT3
-The task was to create a landing page using HTML and CSS.
+The task was to create a calculator using HTML , CSS and Javascript.
